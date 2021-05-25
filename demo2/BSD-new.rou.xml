@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 03/06/21 11:50:15 by Eclipse SUMO duarouter Version 1.8.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="BSD.net.xml"/>
+        <route-files value="trips.trips.xml"/>
+    </input>
+
+    <output>
+        <output-file value="BSD-1000.rou.xml"/>
+        <alternatives-output value="BSD-1000.rou.alt.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="1000"/>
+    </time>
+
+    <report>
+        <no-warnings value="true"/>
+        <ignore-errors value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="type1" accel="0.8" decel="4.5" sigma="0.5" length="5" maxSpeed="70"/>
+    <vType id="type2" accel="0.5" decel="1.5" sigma="0.9" length="5" maxSpeed="50"/>
+
+    <route id="route0" color="1,1,0" edges="398041366#2 539383767#12 539383767#13 539383767#14 539383767#15 539383767#16 757373596 757373599 757373597#0 757373597#1 757373600#0 757373600#1 757373600#2 757373600#3"/>
+
+    <vehicle id="0" type="type1" route="route0" depart="0" color="1,0,0"/>
+    <vehicle id="1" type="type2" route="route0" depart="0" color="0,1,0"/>
+</routes>

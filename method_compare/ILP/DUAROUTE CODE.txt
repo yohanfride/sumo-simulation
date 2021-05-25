@@ -1,0 +1,11 @@
+D:/PASCA/Thesis-kerja/Eclipse/Sumo/tools/assign/duarouter.py --trip-files=<TRIP_DEFS> --net-file=<SUMO_NET> \
+  --output-file=MySUMORoutes.rou.xml --taz-files=<DISTRICTS> --with-taz
+
+
+python D:/PASCA/Thesis-kerja/Eclipse/Sumo/tools/assign/duaIterate.py -t bsd.trips.xml -n BSD.net.xml -o 
+
+-l -> last step ----> set 10
+
+python D:/PASCA/Thesis-kerja/Eclipse/Sumo/tools/assign/duaIterate.py -t bsd.trips.xml -n BSD.net.xml -l 3
+
+python D:/PASCA/Thesis-kerja/Eclipse/Sumo/tools/assign/duaIterate.py -t bsd.trips.xml -n BSD.net.xml -l 3

@@ -1,0 +1,85 @@
+[{
+		"name": "Customer 1",
+		"latitude": -6.308553012129026,
+		"longitude": 106.65369784771863
+	},
+	{
+		"name": "Customer 2",
+		"latitude": -6.306462893963982,
+		"longitude": 106.65316998296014
+	},
+	{
+		"name": "Customer 3",
+		"latitude": -6.312494370077666,
+		"longitude": 106.64662109723842
+	},
+	{
+		"name": "Customer 4",
+		"latitude": -6.301096791776682,
+		"longitude": 106.64202056919287
+	},
+	{
+		"name": "Customer 5",
+		"latitude": -6.303528183655516,
+		"longitude": 106.64149700146929
+	},
+	{
+		"name": "Customer 6",
+		"latitude": -6.314157922920242,
+		"longitude": 106.65214858781376
+	},
+	{
+		"name": "Customer 7",
+		"latitude": -6.309986247646281,
+		"longitude": 106.6539681942185
+	},
+	{
+		"name": "Customer 8",
+		"latitude": -6.300226610561839,
+		"longitude": 106.64834628412329
+	},
+	{
+		"name": "Customer 9",
+		"latitude": -6.296925013860177,
+		"longitude": 106.6477883846482
+	}, {
+		"name": "Customer 10",
+		"latitude": -6.30969619118282,
+		"longitude": 106.64159998886582
+	},
+	{
+		"name": "Customer 11",
+		"latitude": -6.3137654989104375,
+		"longitude": 106.64303335979177
+	},
+	{
+		"name": "Customer 12",
+		"latitude": -6.312272571035277,
+		"longitude": 106.66042265518165
+	},
+	{
+		"name": "Customer 13",
+		"latitude": -6.304128636495022,
+		"longitude": 106.65090482974978
+	},
+	{
+		"name": "Customer 14",
+		"latitude": -6.263023848594723,
+		"longitude": 106.61955516423515
+	},
+	{
+		"name": "Customer 15",
+		"latitude": -6.272374663471266,
+		"longitude": 106.64267795118687
+	},
+	{
+		"name": "Customer 16",
+		"latitude": -6.292578938446226,
+		"longitude": 106.67762554355382
+	},
+	{
+		"name": "Customer 17",
+		"latitude": -6.279082157701798,
+		"longitude": 106.66542041860471
+	}
+]

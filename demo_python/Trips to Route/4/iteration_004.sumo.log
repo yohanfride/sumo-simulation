@@ -1,0 +1,15 @@
+Loading net-file from '4\../BSD.net.xml' ... done (15971ms).
+Loading additional-files from '4\dua_dump_004.add.xml' ... done (93ms).
+Loading done.
+Simulation version 1.8.0 started with time: 0.00
+Simulation ended at time: 289.00
+Reason: All vehicles have left the simulation.
+Performance: 
+ Duration: 0.31s
+ Real time factor: 938.312
+ UPS: 3545.454545
+Vehicles: 
+ Inserted: 7
+ Running: 0
+ Waiting: 0
+

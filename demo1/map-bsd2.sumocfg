@@ -1,0 +1,12 @@
+<configuration>
+ <input>
+  <net-file value="map-bsd2.net.xml"/> 
+  <route-files value="route_maps-bsd2.rou.xml"/> 		
+  <additional-files value="poly_map-bsd2.poly.xml"/>
+ </input>
+ <time>
+  <begin value="0"/>
+  <end value="1000"/>
+  <step-length value="0.1"/> 
+ </time>
+</configuration>

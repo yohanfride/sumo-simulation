@@ -1,0 +1,12 @@
+<configuration>
+ <input>
+  <net-file value="BSD.net.xml"/> 
+  <route-files value="BSD-new.rou.xml"/> 		
+  <additional-files value="BSD.poly.xml"/>
+ </input>
+ <time>
+  <begin value="0"/>
+  <end value="1000"/>
+  <step-length value="0.1"/> 
+ </time>
+</configuration>
