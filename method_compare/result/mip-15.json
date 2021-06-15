@@ -1,0 +1,14 @@
+[{
+	"vehicle": "Vehicle 0",
+	"listtime": [1, 231, 103, 66, 68, 84, 115, 261],
+	"time": 929
+}, {
+	"vehicle": "Vehicle 1",
+	"listtime": [4, 183, 196],
+	"time": 383
+}, {
+	"vehicle": "Vehicle 2",
+	"listtime": [6, 273, 156, 135, 69, 121, 47, 292, 241, 487],
+	"time": 1827
+}]
+

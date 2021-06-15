@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+ <input>
+  	<net-file value="BSD.net.xml"/> 
+  	<route-files value="bsd.rou.xml"/> 		
+  	<additional-files value="BSD.poly.xml"/>
+    <gui-settings-file value="CustomMap.xml"/>
+ </input>
+ <time>
+  	<begin value="0"/>
+  	<end value="10000"/>
+  	<!-- <step-length value="100"/> -->
+ </time>
+ <processing>
+    <collision.check-junctions value="true" />
+ </processing>
+</configuration>

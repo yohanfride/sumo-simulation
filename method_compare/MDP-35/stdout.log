@@ -1,0 +1,43 @@
+> Executing step 0
+>> Running router on bsd.trips.xml
+>>> Begin time: 2021-06-04 21:38:45.761612
+>>> End time: 2021-06-04 21:39:02.427448
+>>> Duration: 0:00:16.665836
+<<
+>> Running simulation
+>>> Begin time: 2021-06-04 21:39:02.434451
+>>> End time: 2021-06-04 21:39:27.312652
+>>> Duration: 0:00:24.878201
+<<
+< Step 0 ended (duration: 0:00:41.556039)
+------------------
+
+> Executing step 1
+>> Running router on 0\bsd_000.rou.alt.xml
+>>> Begin time: 2021-06-04 21:39:27.321651
+>>> End time: 2021-06-04 21:39:43.633433
+>>> Duration: 0:00:16.311782
+<<
+>> Running simulation
+>>> Begin time: 2021-06-04 21:39:43.636434
+>>> End time: 2021-06-04 21:40:06.655994
+>>> Duration: 0:00:23.019560
+<<
+< Step 1 ended (duration: 0:00:39.339342)
+------------------
+
+> Executing step 2
+>> Running router on 1\bsd_001.rou.alt.xml
+>>> Begin time: 2021-06-04 21:40:06.663993
+>>> End time: 2021-06-04 21:40:24.069421
+>>> Duration: 0:00:17.405428
+<<
+>> Running simulation
+>>> Begin time: 2021-06-04 21:40:24.072419
+>>> End time: 2021-06-04 21:40:49.011198
+>>> Duration: 0:00:24.938779
+<<
+< Step 2 ended (duration: 0:00:42.352215)
+------------------
+
+dua-iterate ended (duration: 0:02:03.261593)
