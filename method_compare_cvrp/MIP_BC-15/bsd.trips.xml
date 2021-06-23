@@ -1,0 +1,20 @@
+<trips>
+   <trip id="veh0_0" depart="25" from="-359409608" to="-675107653#5"/>
+   <trip id="veh0_1" depart="25" from="-675107653#5" to="560361514#6"/>
+   <trip id="veh0_2" depart="25" from="560361514#6" to="560361514#10"/>
+   <trip id="veh0_3" depart="25" from="560361514#10" to="154148014#2"/>
+   <trip id="veh0_4" depart="25" from="154148014#2" to="359246993#0"/>
+   <trip id="veh0_5" depart="25" from="359246993#0" to="-484446266#8"/>
+   <trip id="veh0_6" depart="25" from="-484446266#8" to="-359409608"/>
+   <trip id="veh1_0" depart="25" from="-359409608" to="562021794#1"/>
+   <trip id="veh1_1" depart="25" from="562021794#1" to="539383767#1"/>
+   <trip id="veh1_2" depart="25" from="539383767#1" to="154148013#6"/>
+   <trip id="veh1_3" depart="25" from="154148013#6" to="-359409608"/>
+   <trip id="veh2_0" depart="25" from="-359409608" to="754594908#4"/>
+   <trip id="veh2_1" depart="25" from="754594908#4" to="539383765#3"/>
+   <trip id="veh2_2" depart="25" from="539383765#3" to="539383768#6"/>
+   <trip id="veh2_3" depart="25" from="539383768#6" to="230291072"/>
+   <trip id="veh2_4" depart="25" from="230291072" to="539383768#0"/>
+   <trip id="veh2_5" depart="25" from="539383768#0" to="539383768#2"/>
+   <trip id="veh2_6" depart="25" from="539383768#2" to="-359409608"/>
+</trips>
