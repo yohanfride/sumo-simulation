@@ -1,43 +1,43 @@
 > Executing step 0
 >> Running router on bsd.trips.xml
->>> Begin time: 2021-06-05 09:08:29.431081
->>> End time: 2021-06-05 09:08:47.282023
->>> Duration: 0:00:17.850942
+>>> Begin time: 2021-07-03 19:08:53.740566
+>>> End time: 2021-07-03 19:09:00.872110
+>>> Duration: 0:00:07.131544
 <<
 >> Running simulation
->>> Begin time: 2021-06-05 09:08:47.294024
->>> End time: 2021-06-05 09:09:12.733114
->>> Duration: 0:00:25.439090
+>>> Begin time: 2021-07-03 19:09:00.872110
+>>> End time: 2021-07-03 19:09:10.427441
+>>> Duration: 0:00:09.555331
 <<
-< Step 0 ended (duration: 0:00:43.321034)
+< Step 0 ended (duration: 0:00:16.686875)
 ------------------
 
 > Executing step 1
 >> Running router on 0\bsd_000.rou.alt.xml
->>> Begin time: 2021-06-05 09:09:12.750117
->>> End time: 2021-06-05 09:09:29.512859
->>> Duration: 0:00:16.762742
+>>> Begin time: 2021-07-03 19:09:10.428441
+>>> End time: 2021-07-03 19:09:17.423974
+>>> Duration: 0:00:06.995533
 <<
 >> Running simulation
->>> Begin time: 2021-06-05 09:09:29.525861
->>> End time: 2021-06-05 09:09:53.079181
->>> Duration: 0:00:23.553320
+>>> Begin time: 2021-07-03 19:09:17.423974
+>>> End time: 2021-07-03 19:09:27.245725
+>>> Duration: 0:00:09.821751
 <<
-< Step 1 ended (duration: 0:00:40.335608)
+< Step 1 ended (duration: 0:00:16.817284)
 ------------------
 
 > Executing step 2
 >> Running router on 1\bsd_001.rou.alt.xml
->>> Begin time: 2021-06-05 09:09:53.124208
->>> End time: 2021-06-05 09:10:11.411381
->>> Duration: 0:00:18.287173
+>>> Begin time: 2021-07-03 19:09:27.246727
+>>> End time: 2021-07-03 19:09:33.774225
+>>> Duration: 0:00:06.527498
 <<
 >> Running simulation
->>> Begin time: 2021-06-05 09:10:11.412375
->>> End time: 2021-06-05 09:10:39.332278
->>> Duration: 0:00:27.919903
+>>> Begin time: 2021-07-03 19:09:33.774225
+>>> End time: 2021-07-03 19:09:42.909875
+>>> Duration: 0:00:09.135650
 <<
-< Step 2 ended (duration: 0:00:46.214070)
+< Step 2 ended (duration: 0:00:15.664147)
 ------------------
 
-dua-iterate ended (duration: 0:02:09.917195)
+dua-iterate ended (duration: 0:00:49.171309)

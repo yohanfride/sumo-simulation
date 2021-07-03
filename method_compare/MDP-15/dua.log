@@ -6,16 +6,16 @@ Success.
 -------------------------------------------------------------------------------
 ['C:\\Program Files (x86)\\Eclipse\\Sumo\\bin\\sumo', '-c', '0\\iteration_000.sumocfg']
 Loading configuration ... done.
-Loading net-file from '0\../BSD.net.xml' ... done (16975ms).
-Loading additional-files from '0\dua_dump_000.add.xml' ... done (72ms).
+Loading net-file from '0\../BSD.net.xml' ... done (6242ms).
+Loading additional-files from '0\dua_dump_000.add.xml' ... done (40ms).
 Loading done.
 Simulation version 1.8.0 started with time: 0.00
-Simulation ended at time: 261.00
+Simulation ended at time: 264.00
 Reason: All vehicles have left the simulation.
 Performance: 
- Duration: 0.29s
- Real time factor: 900
- UPS: 8196.551724
+ Duration: 0.16s
+ Real time factor: 1639.75
+ UPS: 12732.919255
 Vehicles: 
  Inserted: 18
  Running: 0
@@ -28,16 +28,16 @@ Success.
 -------------------------------------------------------------------------------
 ['C:\\Program Files (x86)\\Eclipse\\Sumo\\bin\\sumo', '-c', '1\\iteration_001.sumocfg']
 Loading configuration ... done.
-Loading net-file from '1\../BSD.net.xml' ... done (14842ms).
-Loading additional-files from '1\dua_dump_001.add.xml' ... done (85ms).
+Loading net-file from '1\../BSD.net.xml' ... done (6191ms).
+Loading additional-files from '1\dua_dump_001.add.xml' ... done (74ms).
 Loading done.
 Simulation version 1.8.0 started with time: 0.00
-Simulation ended at time: 260.00
+Simulation ended at time: 264.00
 Reason: All vehicles have left the simulation.
 Performance: 
- Duration: 0.37s
- Real time factor: 695.187
- UPS: 6216.577540
+ Duration: 0.21s
+ Real time factor: 1245.28
+ UPS: 9632.075472
 Vehicles: 
  Inserted: 18
  Running: 0
@@ -50,70 +50,18 @@ Success.
 -------------------------------------------------------------------------------
 ['C:\\Program Files (x86)\\Eclipse\\Sumo\\bin\\sumo', '-c', '2\\iteration_002.sumocfg']
 Loading configuration ... done.
-Loading net-file from '2\../BSD.net.xml' ... done (14784ms).
-Loading additional-files from '2\dua_dump_002.add.xml' ... done (82ms).
+Loading net-file from '2\../BSD.net.xml' ... done (6372ms).
+Loading additional-files from '2\dua_dump_002.add.xml' ... done (45ms).
 Loading done.
 Simulation version 1.8.0 started with time: 0.00
-Simulation ended at time: 260.00
+Simulation ended at time: 264.00
 Reason: All vehicles have left the simulation.
 Performance: 
- Duration: 0.34s
- Real time factor: 760.234
- UPS: 6798.245614
+ Duration: 0.16s
+ Real time factor: 1609.76
+ UPS: 12451.219512
 Vehicles: 
  Inserted: 18
  Running: 0
  Waiting: 0
 
--------------------------------------------------------------------------------
-['C:\\Program Files (x86)\\Eclipse\\Sumo\\bin\\duarouter', '-c', '3/iteration_003_bsd_002.duarcfg']
-Loading configuration ... done.
-Success.
--------------------------------------------------------------------------------
-['C:\\Program Files (x86)\\Eclipse\\Sumo\\bin\\sumo', '-c', '3\\iteration_003.sumocfg']
-Loading configuration ... done.
-Loading net-file from '3\../BSD.net.xml' ... done (17697ms).
-Loading additional-files from '3\dua_dump_003.add.xml' ... done (84ms).
-Loading done.
-Simulation version 1.8.0 started with time: 0.00
-Simulation ended at time: 260.00
-Reason: All vehicles have left the simulation.
-Performance: 
- Duration: 0.39s
- Real time factor: 675.325
- UPS: 6038.961039
-Vehicles: 
- Inserted: 18
- Running: 0
- Waiting: 0
-
--------------------------------------------------------------------------------
-['C:\\Program Files (x86)\\Eclipse\\Sumo\\bin\\duarouter', '-c', '4/iteration_004_bsd_003.duarcfg']
-Loading configuration ... done.
-Success.
--------------------------------------------------------------------------------
-['C:\\Program Files (x86)\\Eclipse\\Sumo\\bin\\sumo', '-c', '4\\iteration_004.sumocfg']
-Loading configuration ... done.
-Loading net-file from '4\../BSD.net.xml' ... done (21564ms).
-Loading additional-files from '4\dua_dump_004.add.xml' ... done (111ms).
-Loading done.
-Simulation version 1.8.0 started with time: 0.00
-Simulation ended at time: 260.00
-Reason: All vehicles have left the simulation.
-Performance: 
- Duration: 0.45s
- Real time factor: 584.27
- UPS: 5224.719101
-Vehicles: 
- Inserted: 18
- Running: 0
- Waiting: 0
-
--------------------------------------------------------------------------------
-['C:\\Program Files (x86)\\Eclipse\\Sumo\\bin\\duarouter', '-c', '5/iteration_005_bsd_004.duarcfg']
-Loading configuration ... done.
-Success.
--------------------------------------------------------------------------------
-['C:\\Program Files (x86)\\Eclipse\\Sumo\\bin\\sumo', '-c', '5\\iteration_005.sumocfg']
-Loading configuration ... done.
-Loading net-file from '5\../BSD.net.xml' ... Interrupt signal received, trying to exit gracefully.

@@ -71,6 +71,7 @@ for i in range(4):
 			crute_to = data[item_rute[k+1]]
 			current_group = ET.SubElement(root, 'trip', {'id':crute_id,'depart':depart,
 				'from':crute_from,'to':crute_to })
+	
 	xmlstr = minidom.parseString(ET.tostring(root)).toprettyxml(indent="   ")
 	with open("TripsData-Clark.xml", "a") as f:
 		f.write(xmlstr)

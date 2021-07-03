@@ -1,78 +1,43 @@
 > Executing step 0
 >> Running router on bsd.trips.xml
->>> Begin time: 2021-05-28 08:45:01.194350
->>> End time: 2021-05-28 08:45:16.816667
->>> Duration: 0:00:15.622317
+>>> Begin time: 2021-07-03 19:06:20.198371
+>>> End time: 2021-07-03 19:06:26.497486
+>>> Duration: 0:00:06.299115
 <<
 >> Running simulation
->>> Begin time: 2021-05-28 08:45:16.817669
->>> End time: 2021-05-28 08:45:38.773739
->>> Duration: 0:00:21.956070
+>>> Begin time: 2021-07-03 19:06:26.497486
+>>> End time: 2021-07-03 19:06:35.134656
+>>> Duration: 0:00:08.637170
 <<
-< Step 0 ended (duration: 0:00:37.580388)
+< Step 0 ended (duration: 0:00:14.937286)
 ------------------
 
 > Executing step 1
 >> Running router on 0\bsd_000.rou.alt.xml
->>> Begin time: 2021-05-28 08:45:38.777740
->>> End time: 2021-05-28 08:45:54.608326
->>> Duration: 0:00:15.830586
+>>> Begin time: 2021-07-03 19:06:35.135658
+>>> End time: 2021-07-03 19:06:41.321130
+>>> Duration: 0:00:06.185472
 <<
 >> Running simulation
->>> Begin time: 2021-05-28 08:45:54.609305
->>> End time: 2021-05-28 08:46:14.968947
->>> Duration: 0:00:20.359642
+>>> Begin time: 2021-07-03 19:06:41.321130
+>>> End time: 2021-07-03 19:06:50.290815
+>>> Duration: 0:00:08.969685
 <<
-< Step 1 ended (duration: 0:00:36.192208)
+< Step 1 ended (duration: 0:00:15.155157)
 ------------------
 
 > Executing step 2
 >> Running router on 1\bsd_001.rou.alt.xml
->>> Begin time: 2021-05-28 08:46:14.974948
->>> End time: 2021-05-28 08:46:29.693875
->>> Duration: 0:00:14.718927
+>>> Begin time: 2021-07-03 19:06:50.292816
+>>> End time: 2021-07-03 19:06:56.474297
+>>> Duration: 0:00:06.181481
 <<
 >> Running simulation
->>> Begin time: 2021-05-28 08:46:29.708878
->>> End time: 2021-05-28 08:46:50.064679
->>> Duration: 0:00:20.355801
+>>> Begin time: 2021-07-03 19:06:56.474297
+>>> End time: 2021-07-03 19:07:05.177550
+>>> Duration: 0:00:08.703253
 <<
-< Step 2 ended (duration: 0:00:35.096733)
+< Step 2 ended (duration: 0:00:14.884734)
 ------------------
 
-> Executing step 3
->> Running router on 2\bsd_002.rou.alt.xml
->>> Begin time: 2021-05-28 08:46:50.083684
->>> End time: 2021-05-28 08:47:05.254600
->>> Duration: 0:00:15.170916
-<<
->> Running simulation
->>> Begin time: 2021-05-28 08:47:05.264602
->>> End time: 2021-05-28 08:47:28.235023
->>> Duration: 0:00:22.970421
-<<
-< Step 3 ended (duration: 0:00:38.157320)
-------------------
-
-> Executing step 4
->> Running router on 3\bsd_003.rou.alt.xml
->>> Begin time: 2021-05-28 08:47:28.255025
->>> End time: 2021-05-28 08:47:45.986547
->>> Duration: 0:00:17.731522
-<<
->> Running simulation
->>> Begin time: 2021-05-28 08:47:45.998546
->>> End time: 2021-05-28 08:48:13.450997
->>> Duration: 0:00:27.452451
-<<
-< Step 4 ended (duration: 0:00:45.202972)
-------------------
-
-> Executing step 5
->> Running router on 4\bsd_004.rou.alt.xml
->>> Begin time: 2021-05-28 08:48:13.464997
->>> End time: 2021-05-28 08:48:30.190747
->>> Duration: 0:00:16.725750
-<<
->> Running simulation
->>> Begin time: 2021-05-28 08:48:30.204749
+dua-iterate ended (duration: 0:00:44.980180)

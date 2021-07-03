@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 06/28/21 08:41:05 by Eclipse SUMO GUI Version 1.8.0
+-->
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="D:\PASCA\Thesis-kerja\simulation\sumo\SUMO_reroute\SavingsAlgoRandom\BSD.net.xml"/>
+        <route-files value="D:\PASCA\Thesis-kerja\simulation\sumo\SUMO_reroute\SavingsAlgoRandom\bsd.rou.xml"/>
+        <additional-files value="D:\PASCA\Thesis-kerja\simulation\sumo\SUMO_reroute\SavingsAlgoRandom\BSD.poly.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="5000"/>
+    </time>
+
+    <processing>
+        <collision.check-junctions value="true"/>
+    </processing>
+
+    <gui_only>
+        <gui-settings-file value="D:\PASCA\Thesis-kerja\simulation\sumo\SUMO_reroute\SavingsAlgoRandom\CustomMap.xml"/>
+        <delay value="0"/>
+    </gui_only>
+
+</configuration>

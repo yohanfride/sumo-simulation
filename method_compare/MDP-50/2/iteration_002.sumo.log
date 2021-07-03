@@ -1,32 +1,15 @@
-Loading net-file from '2\../BSD.net.xml' ... done (21397ms).
-Loading additional-files from '2\dua_dump_002.add.xml' ... done (125ms).
+Loading net-file from '2\../BSD.net.xml' ... done (6651ms).
+Loading additional-files from '2\dua_dump_002.add.xml' ... done (31ms).
 Loading done.
 Simulation version 1.8.0 started with time: 0.00
-Warning: Teleporting vehicle 'veh8_0'; waited too long (jam), lane=':3640024471_4_0', time=477.00.
-Warning: Vehicle 'veh8_0' ends teleporting on edge '757467199', time 477.00.
-Warning: Teleporting vehicle 'veh6_2'; waited too long (jam), lane=':3640024476_5_0', time=483.00.
-Warning: Teleporting vehicle 'veh6_5'; waited too long (jam), lane='757088117#1_0', time=485.00.
-Warning: Teleporting vehicle 'veh8_4'; waited too long (jam), lane=':7072364219_0_2', time=486.00.
-Warning: Vehicle 'veh6_2' ends teleporting on edge '775190282#0', time 486.00.
-Warning: Vehicle 'veh8_4' ends teleporting on edge '757373600#3', time 486.00.
-Warning: Teleporting vehicle 'veh3_5'; waited too long (jam), lane=':7072364219_0_2', time=487.00.
-Warning: Vehicle 'veh3_5' ends teleporting on edge '757373600#3', time 487.00.
-Warning: Vehicle 'veh6_5' ends teleporting on edge '757373598', time 487.00.
-Warning: Teleporting vehicle 'veh8_0'; waited too long (jam), lane='757467199_0', time=778.00.
-Warning: Teleporting vehicle 'veh0_2'; waited too long (yield), lane='757373598_0', time=780.00.
-Warning: Vehicle 'veh8_0' ends teleporting on edge '756081030#0', time 780.00.
-Warning: Vehicle 'veh0_2' ends teleporting on edge '775190282#0', time 782.00.
-Warning: Teleporting vehicle 'veh5_3'; waited too long (jam), lane=':3640024470_3_0', time=790.00.
-Warning: Vehicle 'veh5_3' ends teleporting on edge '771544256#3', time 790.00.
-Simulation ended at time: 1095.00
+Simulation ended at time: 517.00
 Reason: All vehicles have left the simulation.
 Performance: 
- Duration: 1.79s
- Real time factor: 611.39
- UPS: 11967.615857
+ Duration: 0.35s
+ Real time factor: 1460.45
+ UPS: 26731.638418
 Vehicles: 
  Inserted: 59
  Running: 0
  Waiting: 0
-Teleports: 8 (Jam: 7, Yield: 1)
 

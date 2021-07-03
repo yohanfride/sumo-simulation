@@ -1,0 +1,43 @@
+Loading net-file from '2\../BSD.net.xml' ... done (6521ms).
+Loading additional-files from '2\dua_dump_002.add.xml' ... done (40ms).
+Loading done.
+Simulation version 1.8.0 started with time: 0.00
+Warning: Teleporting vehicle 'rute_11_6'; waited too long (jam), lane=':3640024471_4_0', time=476.00.
+Warning: Vehicle 'rute_11_6' ends teleporting on edge '757467199', time 476.00.
+Warning: Teleporting vehicle 'rute_13_8'; waited too long (jam), lane='771544256#3_0', time=482.00.
+Warning: Teleporting vehicle 'rute_6_2'; waited too long (jam), lane='757373598_0', time=482.00.
+Warning: Vehicle 'rute_6_2' ends teleporting on edge '771544256#3', time 482.00.
+Warning: Vehicle 'rute_13_8' ends teleporting on edge '757467199', time 482.00.
+Warning: Teleporting vehicle 'rute_14_1'; waited too long (jam), lane=':7072364217_0_0', time=522.00.
+Warning: Vehicle 'rute_14_1' ends teleporting on edge '771544256#2', time 522.00.
+Warning: Teleporting vehicle 'rute_11_6'; waited too long (jam), lane='757467199_0', time=777.00.
+Warning: Vehicle 'rute_11_6' ends teleporting on edge '756081030#0', time 779.00.
+Warning: Teleporting vehicle 'rute_6_2'; waited too long (yield), lane='771544256#3_0', time=783.00.
+Warning: Vehicle 'rute_6_2' ends teleporting on edge '757467199', time 783.00.
+Warning: Teleporting vehicle 'rute_2_10'; waited too long (jam), lane=':3640024476_5_0', time=787.00.
+Warning: Vehicle 'rute_2_10' ends teleporting on edge '757373598', time 787.00.
+Warning: Teleporting vehicle 'rute_9_0'; waited too long (jam), lane=':699593339_0_0', time=791.00.
+Warning: Vehicle 'rute_9_0' ends teleporting on edge '757373598', time 793.00.
+Warning: Teleporting vehicle 'rute_5_11'; waited too long (jam), lane='757088117#1_0', time=931.00.
+Warning: Vehicle 'rute_5_11' ends teleporting on edge '757457244#0', time 934.00.
+Warning: Teleporting vehicle 'rute_11_7'; waited too long (yield), lane='757467199_0', time=1082.00.
+Warning: Vehicle 'rute_11_7' ends teleporting on edge '756081030#0', time 1084.00.
+Warning: Teleporting vehicle 'rute_2_10'; waited too long (jam), lane='757373598_0', time=1088.00.
+Warning: Vehicle 'rute_2_10' ends teleporting on edge '757467199', time 1090.00.
+Warning: Teleporting vehicle 'rute_9_0'; waited too long (jam), lane=':3640024470_1_0', time=1094.00.
+Warning: Vehicle 'rute_9_0' ends teleporting on edge '757457244#0', time 1094.00.
+Warning: Teleporting vehicle 'rute_11_14'; waited too long (yield), lane='757467200#1_0', time=1105.00.
+Warning: Vehicle 'rute_11_14' ends teleporting on edge '757089161', time 1107.00.
+Warning: Vehicle 'rute_11_14' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=1108.00.
+Simulation ended at time: 1470.00
+Reason: All vehicles have left the simulation.
+Performance: 
+ Duration: 1.88s
+ Real time factor: 783.165
+ UPS: 35087.906233
+Vehicles: 
+ Inserted: 240
+ Running: 0
+ Waiting: 0
+Teleports: 13 (Jam: 10, Yield: 3)
+

@@ -1,0 +1,394 @@
+-------------------------------------------------------------------------------
+['C:\\Program Files (x86)\\Eclipse\\Sumo\\bin\\duarouter', '-c', '0/iteration_000_bsd.duarcfg']
+Loading configuration ... done.
+Warning: Found root element 'trips' in file '0/../bsd.trips.xml' (expected 'routes').
+Success.
+-------------------------------------------------------------------------------
+['C:\\Program Files (x86)\\Eclipse\\Sumo\\bin\\sumo', '-c', '0\\iteration_000.sumocfg']
+Loading configuration ... done.
+Loading net-file from '0\../BSD.net.xml' ... done (7551ms).
+Loading additional-files from '0\dua_dump_000.add.xml' ... done (43ms).
+Loading done.
+Simulation version 1.8.0 started with time: 0.00
+Warning: Teleporting vehicle 'rute_7_4'; waited too long (yield), lane='539383765#3_0', time=378.00.
+Warning: Teleporting vehicle 'rute_12_10'; waited too long (jam), lane='754594908#5_0', time=381.00.
+Warning: Vehicle 'rute_7_4' ends teleporting on edge '754594908#7', time 381.00.
+Warning: Teleporting vehicle 'rute_12_9'; waited too long (jam), lane=':3640048098_0_0', time=383.00.
+Warning: Vehicle 'rute_12_9' ends teleporting on edge '754594908#6', time 383.00.
+Warning: Vehicle 'rute_12_10' ends teleporting on edge '539383768#6', time 385.00.
+Warning: Teleporting vehicle 'rute_13_14'; waited too long (jam), lane='539383768#11_0', time=403.00.
+Warning: Vehicle 'rute_13_14' ends teleporting on edge '539383768#12', time 403.00.
+Warning: Teleporting vehicle 'rute_11_6'; waited too long (jam), lane=':3640024471_4_0', time=476.00.
+Warning: Vehicle 'rute_11_6' ends teleporting on edge '757467199', time 476.00.
+Warning: Teleporting vehicle 'rute_13_1'; waited too long (jam), lane='771544256#3_0', time=481.00.
+Warning: Teleporting vehicle 'rute_6_1'; waited too long (jam), lane=':3640024476_5_0', time=481.00.
+Warning: Vehicle 'rute_6_1' ends teleporting on edge '757373598', time 481.00.
+Warning: Vehicle 'rute_13_1' ends teleporting on edge '757467199', time 481.00.
+Warning: Teleporting vehicle 'rute_11_5'; waited too long (jam), lane=':3640024476_1_0', time=485.00.
+Warning: Vehicle 'rute_11_5' ends teleporting on edge '756081030#0', time 485.00.
+Warning: Teleporting vehicle 'rute_4_0'; waited too long (jam), lane=':3640024470_1_0', time=487.00.
+Warning: Teleporting vehicle 'rute_6_9'; waited too long (jam), lane='757373600#2_0', time=487.00.
+Warning: Vehicle 'rute_4_0' ends teleporting on edge '757457244#0', time 487.00.
+Warning: Teleporting vehicle 'rute_2_11'; waited too long (jam), lane=':7072364219_0_1', time=489.00.
+Warning: Teleporting vehicle 'rute_8_11'; waited too long (jam), lane='757373600#2_1', time=491.00.
+Warning: Vehicle 'rute_2_11' ends teleporting on edge '757457244#0', time 492.00.
+Warning: Vehicle 'rute_6_9' ends teleporting on edge '562021794#0', time 492.00.
+Warning: Vehicle 'rute_8_11' ends teleporting on edge '757457244#0', time 494.00.
+Warning: Teleporting vehicle 'rute_3_10'; waited too long (jam), lane='757373597#0_0', time=511.00.
+Warning: Vehicle 'rute_3_10' ends teleporting on edge '757373600#0', time 513.00.
+Warning: Teleporting vehicle 'rute_5_11'; waited too long (jam), lane='539383768#12_2', time=661.00.
+Warning: Teleporting vehicle 'rute_5_10'; waited too long (jam), lane='539383768#12_1', time=661.00.
+Warning: Vehicle 'rute_5_10' ends teleporting on edge '539383768#13', time 661.00.
+Warning: Vehicle 'rute_5_11' ends teleporting on edge '539383768#13', time 661.00.
+Warning: Teleporting vehicle 'rute_5_12'; waited too long (jam), lane='539383768#12_1', time=662.00.
+Warning: Vehicle 'rute_5_12' ends teleporting on edge '539383768#13', time 663.00.
+Warning: Teleporting vehicle 'rute_13_11'; waited too long (jam), lane='539383768#12_0', time=717.00.
+Warning: Vehicle 'rute_13_11' ends teleporting on edge '539383768#13', time 717.00.
+Warning: Teleporting vehicle 'rute_7_12'; waited too long (jam), lane='539383768#11_2', time=778.00.
+Warning: Vehicle 'rute_7_12' ends teleporting on edge '539383768#12', time 778.00.
+Warning: Teleporting vehicle 'rute_6_1'; waited too long (yield), lane='757373598_0', time=782.00.
+Warning: Vehicle 'rute_6_1' ends teleporting on edge '757467199', time 784.00.
+Warning: Teleporting vehicle 'rute_13_4'; waited too long (jam), lane=':7072364217_0_0', time=801.00.
+Warning: Vehicle 'rute_13_4' ends teleporting on edge '757467199', time 804.00.
+Warning: Teleporting vehicle 'rute_11_7'; waited too long (jam), lane=':3640024471_4_0', time=835.00.
+Warning: Vehicle 'rute_11_7' ends teleporting on edge '757467199', time 835.00.
+Warning: Teleporting vehicle 'rute_13_2'; waited too long (jam), lane='771544256#3_0', time=842.00.
+Warning: Vehicle 'rute_13_2' ends teleporting on edge '562021794#0', time 844.00.
+Warning: Teleporting vehicle 'rute_11_6'; waited too long (jam), lane=':3640024476_1_0', time=845.00.
+Warning: Vehicle 'rute_11_6' ends teleporting on edge '756081030#0', time 845.00.
+Warning: Teleporting vehicle 'rute_1_0'; waited too long (jam), lane=':3640024470_1_0', time=846.00.
+Warning: Vehicle 'rute_1_0' ends teleporting on edge '757457244#0', time 846.00.
+Warning: Teleporting vehicle 'rute_3_11'; waited too long (jam), lane=':7072364219_0_1', time=849.00.
+Warning: Vehicle 'rute_3_11' ends teleporting on edge '757457244#0', time 852.00.
+Warning: Teleporting vehicle 'rute_13_12'; waited too long (jam), lane='539383768#12_0', time=1087.00.
+Warning: Vehicle 'rute_13_12' ends teleporting on edge '539383768#13', time 1087.00.
+Warning: Teleporting vehicle 'rute_3_10'; waited too long (jam), lane='757373600#2_1', time=1093.00.
+Warning: Teleporting vehicle 'rute_4_10'; waited too long (jam), lane='757373600#1_0', time=1093.00.
+Warning: Vehicle 'rute_4_10' ends teleporting on edge '757373600#2', time 1093.00.
+Warning: Vehicle 'rute_3_10' ends teleporting on edge '757467199', time 1097.00.
+Warning: Teleporting vehicle 'rute_9_0'; waited too long (jam), lane=':3640024470_1_0', time=1152.00.
+Warning: Vehicle 'rute_9_0' ends teleporting on edge '757457244#0', time 1152.00.
+Warning: Teleporting vehicle 'rute_14_2'; waited too long (jam), lane=':7072364217_0_0', time=1162.00.
+Warning: Vehicle 'rute_14_2' ends teleporting on edge '771544256#2', time 1162.00.
+Warning: Teleporting vehicle 'rute_11_12'; waited too long (jam), lane=':3640024471_4_0', time=1195.00.
+Warning: Vehicle 'rute_11_12' ends teleporting on edge '757467199', time 1195.00.
+Warning: Teleporting vehicle 'rute_6_2'; waited too long (jam), lane='757373598_0', time=1202.00.
+Warning: Teleporting vehicle 'rute_13_3'; waited too long (jam), lane='771544256#3_0', time=1203.00.
+Warning: Vehicle 'rute_6_2' ends teleporting on edge '771544256#3', time 1203.00.
+Warning: Vehicle 'rute_13_3' ends teleporting on edge '757467199', time 1203.00.
+Warning: Teleporting vehicle 'rute_7_1'; waited too long (jam), lane=':3640024470_3_0', time=1204.00.
+Warning: Vehicle 'rute_7_1' ends teleporting on edge '562021794#0', time 1207.00.
+Warning: Teleporting vehicle 'rute_11_7'; waited too long (jam), lane=':3640024476_1_0', time=1208.00.
+Warning: Vehicle 'rute_11_7' ends teleporting on edge '756081030#0', time 1208.00.
+Warning: Teleporting vehicle 'rute_4_10'; waited too long (jam), lane=':7072364219_0_1', time=1396.00.
+Warning: Vehicle 'rute_4_10' ends teleporting on edge '757467199', time 1400.00.
+Warning: Teleporting vehicle 'rute_14_2'; waited too long (yield), lane='771544256#2_0', time=1463.00.
+Warning: Vehicle 'rute_14_2' ends teleporting on edge '757467199', time 1465.00.
+Warning: Teleporting vehicle 'rute_6_2'; waited too long (yield), lane='771544256#3_0', time=1504.00.
+Warning: Vehicle 'rute_6_2' ends teleporting on edge '757467199', time 1504.00.
+Warning: Teleporting vehicle 'rute_6_3'; waited too long (jam), lane=':3640024476_5_0', time=1507.00.
+Warning: Vehicle 'rute_6_3' ends teleporting on edge '757373598', time 1507.00.
+Warning: Teleporting vehicle 'rute_11_13'; waited too long (jam), lane=':3640024471_4_0', time=1556.00.
+Warning: Vehicle 'rute_11_13' ends teleporting on edge '757467199', time 1556.00.
+Warning: Teleporting vehicle 'rute_11_12'; waited too long (jam), lane=':3640024476_1_0', time=1567.00.
+Warning: Vehicle 'rute_11_12' ends teleporting on edge '756081030#0', time 1567.00.
+Warning: Teleporting vehicle 'rute_6_3'; waited too long (jam), lane='757373598_0', time=1808.00.
+Warning: Vehicle 'rute_6_3' ends teleporting on edge '757467199', time 1810.00.
+Warning: Teleporting vehicle 'rute_13_8'; waited too long (jam), lane=':7072364217_0_0', time=1814.00.
+Warning: Vehicle 'rute_13_8' ends teleporting on edge '771544256#2', time 1814.00.
+Warning: Teleporting vehicle 'rute_14_3'; waited too long (jam), lane='771544256#3_0', time=1832.00.
+Warning: Vehicle 'rute_14_3' ends teleporting on edge '562021794#0', time 1834.00.
+Warning: Teleporting vehicle 'rute_11_14'; waited too long (jam), lane=':3640024471_4_0', time=1916.00.
+Warning: Vehicle 'rute_11_14' ends teleporting on edge '757467199', time 1916.00.
+Warning: Teleporting vehicle 'rute_11_13'; waited too long (jam), lane=':3640024476_1_0', time=1927.00.
+Warning: Vehicle 'rute_11_13' ends teleporting on edge '756081030#0', time 1927.00.
+Warning: Teleporting vehicle 'rute_13_8'; waited too long (jam), lane='771544256#2_0', time=2115.00.
+Warning: Teleporting vehicle 'rute_2_10'; waited too long (jam), lane=':7072364219_0_0', time=2116.00.
+Warning: Vehicle 'rute_2_10' ends teleporting on edge '757373600#3', time 2116.00.
+Warning: Vehicle 'rute_13_8' ends teleporting on edge '757467199', time 2117.00.
+Warning: Teleporting vehicle 'rute_7_2'; waited too long (yield), lane='771544256#3_0', time=2136.00.
+Warning: Teleporting vehicle 'rute_6_4'; waited too long (yield), lane='757373598_0', time=2136.00.
+Warning: Vehicle 'rute_6_4' ends teleporting on edge '771544256#3', time 2136.00.
+Warning: Vehicle 'rute_7_2' ends teleporting on edge '757467199', time 2136.00.
+Warning: Teleporting vehicle 'rute_11_15'; waited too long (jam), lane=':3640024471_4_0', time=2276.00.
+Warning: Vehicle 'rute_11_15' ends teleporting on edge '757467199', time 2276.00.
+Warning: Teleporting vehicle 'rute_11_14'; waited too long (jam), lane=':3640024476_1_0', time=2288.00.
+Warning: Vehicle 'rute_11_14' ends teleporting on edge '756081030#0', time 2288.00.
+Warning: Teleporting vehicle 'rute_7_3'; waited too long (jam), lane=':7072364217_0_0', time=2420.00.
+Warning: Vehicle 'rute_7_3' ends teleporting on edge '771544256#2', time 2420.00.
+Warning: Teleporting vehicle 'rute_6_4'; waited too long (jam), lane='771544256#3_0', time=2437.00.
+Warning: Vehicle 'rute_6_4' ends teleporting on edge '757467199', time 2437.00.
+Warning: Teleporting vehicle 'rute_0_5'; waited too long (jam), lane=':3640024471_4_0', time=2636.00.
+Warning: Vehicle 'rute_0_5' ends teleporting on edge '757467199', time 2636.00.
+Warning: Teleporting vehicle 'rute_11_15'; waited too long (jam), lane=':3640024476_1_0', time=2645.00.
+Warning: Vehicle 'rute_11_15' ends teleporting on edge '756081030#0', time 2645.00.
+Warning: Teleporting vehicle 'rute_7_3'; waited too long (yield), lane='771544256#2_0', time=2721.00.
+Warning: Vehicle 'rute_7_3' ends teleporting on edge '757467199', time 2723.00.
+Warning: Teleporting vehicle 'rute_6_8'; waited too long (yield), lane='771544256#3_0', time=2743.00.
+Warning: Teleporting vehicle 'rute_6_10'; waited too long (jam), lane=':3640024476_5_0', time=2744.00.
+Warning: Vehicle 'rute_6_10' ends teleporting on edge '757373598', time 2744.00.
+Warning: Vehicle 'rute_6_8' ends teleporting on edge '562021794#0', time 2745.00.
+Warning: Teleporting vehicle 'rute_0_6'; waited too long (jam), lane=':3640024471_4_0', time=2996.00.
+Warning: Vehicle 'rute_0_6' ends teleporting on edge '757467199', time 2996.00.
+Warning: Teleporting vehicle 'rute_0_5'; waited too long (jam), lane=':3640024476_1_0', time=3007.00.
+Warning: Vehicle 'rute_0_5' ends teleporting on edge '756081030#0', time 3007.00.
+Warning: Teleporting vehicle 'rute_6_10'; waited too long (yield), lane='757373598_0', time=3045.00.
+Warning: Vehicle 'rute_6_10' ends teleporting on edge '757467199', time 3047.00.
+Warning: Teleporting vehicle 'rute_5_10'; waited too long (jam), lane=':7072364217_0_0', time=3054.00.
+Warning: Vehicle 'rute_5_10' ends teleporting on edge '771544256#2', time 3054.00.
+Warning: Teleporting vehicle 'rute_14_10'; waited too long (jam), lane='771544256#3_0', time=3092.00.
+Warning: Vehicle 'rute_14_10' ends teleporting on edge '757467199', time 3092.00.
+Warning: Teleporting vehicle 'rute_5_10'; waited too long (yield), lane='771544256#2_0', time=3355.00.
+Warning: Teleporting vehicle 'rute_0_7'; waited too long (jam), lane=':3640024471_4_0', time=3356.00.
+Warning: Vehicle 'rute_0_7' ends teleporting on edge '757467199', time 3356.00.
+Warning: Vehicle 'rute_5_10' ends teleporting on edge '757467199', time 3357.00.
+Warning: Teleporting vehicle 'rute_0_6'; waited too long (jam), lane=':3640024476_1_0', time=3365.00.
+Warning: Vehicle 'rute_0_6' ends teleporting on edge '756081030#0', time 3365.00.
+Warning: Teleporting vehicle 'rute_2_10'; waited too long (yield), lane='757373598_0', time=3395.00.
+Warning: Vehicle 'rute_2_10' ends teleporting on edge '757467199', time 3397.00.
+Warning: Teleporting vehicle 'rute_14_9'; waited too long (yield), lane='771544256#3_0', time=3398.00.
+Warning: Vehicle 'rute_14_9' ends teleporting on edge '757467199', time 3398.00.
+Warning: Teleporting vehicle 'rute_7_9'; waited too long (jam), lane=':7072364217_0_0', time=3708.00.
+Warning: Vehicle 'rute_7_9' ends teleporting on edge '771544256#2', time 3708.00.
+Warning: Teleporting vehicle 'rute_0_12'; waited too long (jam), lane=':3640024471_4_0', time=3716.00.
+Warning: Vehicle 'rute_0_12' ends teleporting on edge '757467199', time 3716.00.
+Warning: Teleporting vehicle 'rute_12_1'; waited too long (jam), lane='771544256#3_0', time=3722.00.
+Warning: Teleporting vehicle 'rute_8_10'; waited too long (jam), lane='757373598_0', time=3722.00.
+Warning: Vehicle 'rute_8_10' ends teleporting on edge '771544256#3', time 3722.00.
+Warning: Vehicle 'rute_12_1' ends teleporting on edge '757467199', time 3722.00.
+Warning: Teleporting vehicle 'rute_12_9'; waited too long (jam), lane=':3640024470_3_0', time=3724.00.
+Warning: Vehicle 'rute_12_9' ends teleporting on edge '562021794#0', time 3727.00.
+Warning: Teleporting vehicle 'rute_7_9'; waited too long (jam), lane='771544256#2_0', time=4009.00.
+Warning: Vehicle 'rute_7_9' ends teleporting on edge '757467199', time 4011.00.
+Warning: Teleporting vehicle 'rute_0_12'; waited too long (jam), lane='757467199_0', time=4017.00.
+Warning: Vehicle 'rute_0_12' ends teleporting on edge '756081030#0', time 4019.00.
+Warning: Teleporting vehicle 'rute_0_15'; waited too long (jam), lane='757467200#1_0', time=4021.00.
+Warning: Teleporting vehicle 'rute_8_10'; waited too long (yield), lane='771544256#3_0', time=4023.00.
+Warning: Vehicle 'rute_8_10' ends teleporting on edge '757467199', time 4023.00.
+Warning: Vehicle 'rute_0_15' ends teleporting on edge '756081030#0', time 4024.00.
+Warning: Teleporting vehicle 'rute_9_10'; waited too long (jam), lane=':3640024476_5_0', time=4028.00.
+Warning: Vehicle 'rute_9_10' ends teleporting on edge '757373598', time 4028.00.
+Warning: Teleporting vehicle 'rute_0_7'; waited too long (jam), lane=':3640024476_1_0', time=4029.00.
+Warning: Vehicle 'rute_0_7' ends teleporting on edge '756081030#0', time 4029.00.
+Warning: Teleporting vehicle 'rute_9_10'; waited too long (jam), lane='757373598_0', time=4329.00.
+Warning: Vehicle 'rute_9_10' ends teleporting on edge '757467199', time 4331.00.
+Warning: Teleporting vehicle 'rute_14_1'; waited too long (jam), lane=':7072364217_0_0', time=4334.00.
+Warning: Vehicle 'rute_14_1' ends teleporting on edge '771544256#2', time 4334.00.
+Warning: Teleporting vehicle 'rute_0_14'; waited too long (jam), lane=':3640024471_4_0', time=4347.00.
+Warning: Vehicle 'rute_0_14' ends teleporting on edge '757467199', time 4347.00.
+Simulation ended at time: 4731.00
+Reason: All vehicles have left the simulation.
+Performance: 
+ Duration: 5.25s
+ Real time factor: 900.8
+ UPS: 39952.589490
+Vehicles: 
+ Inserted: 240
+ Running: 0
+ Waiting: 0
+Teleports: 83 (Jam: 70, Yield: 13)
+
+-------------------------------------------------------------------------------
+['C:\\Program Files (x86)\\Eclipse\\Sumo\\bin\\duarouter', '-c', '1/iteration_001_bsd_000.duarcfg']
+Loading configuration ... done.
+Warning: No interval matches passed time 1285.40 in edge '757467199'.
+ Using edge's length / max speed.
+Success.
+-------------------------------------------------------------------------------
+['C:\\Program Files (x86)\\Eclipse\\Sumo\\bin\\sumo', '-c', '1\\iteration_001.sumocfg']
+Loading configuration ... done.
+Loading net-file from '1\../BSD.net.xml' ... done (6899ms).
+Loading additional-files from '1\dua_dump_001.add.xml' ... done (48ms).
+Loading done.
+Simulation version 1.8.0 started with time: 0.00
+Warning: Teleporting vehicle 'rute_14_2'; waited too long (jam), lane='539383768#4_0', time=372.00.
+Warning: Teleporting vehicle 'rute_7_3'; waited too long (yield), lane='539383765#3_0', time=376.00.
+Warning: Vehicle 'rute_14_2' ends teleporting on edge '754594908#7', time 376.00.
+Warning: Teleporting vehicle 'rute_12_10'; waited too long (jam), lane=':3640048097_1_0', time=379.00.
+Warning: Vehicle 'rute_7_3' ends teleporting on edge '754594908#7', time 379.00.
+Warning: Vehicle 'rute_12_10' ends teleporting on edge '539383768#6', time 379.00.
+Warning: Teleporting vehicle 'rute_14_3'; waited too long (jam), lane='539383768#4_0', time=380.00.
+Warning: Vehicle 'rute_14_3' ends teleporting on edge '539383768#5', time 380.00.
+Warning: Teleporting vehicle 'rute_14_6'; waited too long (jam), lane=':3640048097_1_1', time=384.00.
+Warning: Vehicle 'rute_14_6' ends teleporting on edge '539383768#6', time 384.00.
+Warning: Teleporting vehicle 'rute_7_1'; waited too long (jam), lane=':3640048098_4_0', time=385.00.
+Warning: Vehicle 'rute_7_1' ends teleporting on edge '754594908#7', time 387.00.
+Warning: Teleporting vehicle 'rute_6_13'; waited too long (yield), lane='359247813#12_0', time=442.00.
+Warning: Vehicle 'rute_6_13' ends teleporting on edge '539383768#6', time 445.00.
+Warning: Teleporting vehicle 'rute_11_6'; waited too long (jam), lane=':3640024471_4_0', time=476.00.
+Warning: Vehicle 'rute_11_6' ends teleporting on edge '757467199', time 476.00.
+Warning: Teleporting vehicle 'rute_13_1'; waited too long (jam), lane='771544256#3_0', time=482.00.
+Warning: Teleporting vehicle 'rute_6_2'; waited too long (jam), lane=':3640024476_5_0', time=482.00.
+Warning: Vehicle 'rute_6_2' ends teleporting on edge '757373598', time 482.00.
+Warning: Vehicle 'rute_13_1' ends teleporting on edge '757467199', time 482.00.
+Warning: Teleporting vehicle 'rute_11_5'; waited too long (jam), lane=':3640024476_1_0', time=485.00.
+Warning: Vehicle 'rute_11_5' ends teleporting on edge '756081030#0', time 485.00.
+Warning: Teleporting vehicle 'rute_3_0'; waited too long (jam), lane='757088117#1_0', time=546.00.
+Warning: Vehicle 'rute_3_0' ends teleporting on edge '757373598', time 548.00.
+Warning: Teleporting vehicle 'rute_1_13'; waited too long (jam), lane='754594908#5_0', time=683.00.
+Warning: Teleporting vehicle 'rute_7_4'; waited too long (yield), lane='539383765#3_0', time=683.00.
+Warning: Teleporting vehicle 'rute_12_13'; waited too long (yield), lane='694954580_0', time=684.00.
+Warning: Teleporting vehicle 'rute_2_13'; waited too long (jam), lane=':3640048098_0_0', time=685.00.
+Warning: Vehicle 'rute_1_13' ends teleporting on edge '694954580', time 685.00.
+Warning: Vehicle 'rute_2_13' ends teleporting on edge '754594908#6', time 685.00.
+Warning: Vehicle 'rute_7_4' ends teleporting on edge '754594908#7', time 686.00.
+Warning: Vehicle 'rute_12_13' ends teleporting on edge '539383768#6', time 686.00.
+Warning: Teleporting vehicle 'rute_14_4'; waited too long (jam), lane='539383768#4_0', time=687.00.
+Warning: Teleporting vehicle 'rute_7_2'; waited too long (yield), lane='757095209_0', time=691.00.
+Warning: Vehicle 'rute_14_4' ends teleporting on edge '754594908#7', time 691.00.
+Warning: Vehicle 'rute_7_2' ends teleporting on edge '754594908#7', time 693.00.
+Warning: Teleporting vehicle 'rute_6_2'; waited too long (yield), lane='757373598_0', time=783.00.
+Warning: Vehicle 'rute_6_2' ends teleporting on edge '757467199', time 785.00.
+Warning: Teleporting vehicle 'rute_14_1'; waited too long (jam), lane=':7072364217_0_0', time=806.00.
+Warning: Vehicle 'rute_14_1' ends teleporting on edge '771544256#2', time 806.00.
+Warning: Teleporting vehicle 'rute_11_7'; waited too long (jam), lane=':3640024471_4_0', time=836.00.
+Warning: Vehicle 'rute_11_7' ends teleporting on edge '757467199', time 836.00.
+Warning: Teleporting vehicle 'rute_12_1'; waited too long (jam), lane='771544256#3_0', time=842.00.
+Warning: Vehicle 'rute_12_1' ends teleporting on edge '757467199', time 842.00.
+Warning: Teleporting vehicle 'rute_11_6'; waited too long (jam), lane=':3640024476_1_0', time=848.00.
+Warning: Vehicle 'rute_11_6' ends teleporting on edge '756081030#0', time 848.00.
+Warning: Teleporting vehicle 'rute_9_0'; waited too long (yield), lane='757088117#1_0', time=850.00.
+Warning: Vehicle 'rute_9_0' ends teleporting on edge '757373598', time 852.00.
+Warning: Teleporting vehicle 'rute_9_0'; waited too long (jam), lane=':3640024470_1_0', time=1153.00.
+Warning: Vehicle 'rute_9_0' ends teleporting on edge '757457244#0', time 1153.00.
+Warning: Teleporting vehicle 'rute_12_10'; waited too long (jam), lane=':7072364217_0_0', time=1161.00.
+Warning: Vehicle 'rute_12_10' ends teleporting on edge '757467199', time 1164.00.
+Warning: Teleporting vehicle 'rute_11_12'; waited too long (jam), lane=':3640024471_4_0', time=1195.00.
+Warning: Vehicle 'rute_11_12' ends teleporting on edge '757467199', time 1195.00.
+Warning: Teleporting vehicle 'rute_6_3'; waited too long (jam), lane='757373598_0', time=1201.00.
+Warning: Teleporting vehicle 'rute_13_8'; waited too long (jam), lane='771544256#3_0', time=1202.00.
+Warning: Vehicle 'rute_6_3' ends teleporting on edge '771544256#3', time 1202.00.
+Warning: Vehicle 'rute_13_8' ends teleporting on edge '562021794#0', time 1204.00.
+Warning: Teleporting vehicle 'rute_14_9'; waited too long (jam), lane=':7072364217_0_0', time=1466.00.
+Warning: Vehicle 'rute_14_9' ends teleporting on edge '771544256#2', time 1466.00.
+Warning: Teleporting vehicle 'rute_11_12'; waited too long (jam), lane='757467199_0', time=1496.00.
+Warning: Vehicle 'rute_11_12' ends teleporting on edge '756081030#0', time 1498.00.
+Warning: Teleporting vehicle 'rute_11_15'; waited too long (jam), lane='757467200#1_0', time=1499.00.
+Warning: Vehicle 'rute_11_15' ends teleporting on edge '756081030#0', time 1502.00.
+Warning: Teleporting vehicle 'rute_6_3'; waited too long (yield), lane='771544256#3_0', time=1503.00.
+Warning: Vehicle 'rute_6_3' ends teleporting on edge '757467199', time 1503.00.
+Warning: Teleporting vehicle 'rute_6_4'; waited too long (jam), lane=':3640024476_5_0', time=1505.00.
+Warning: Vehicle 'rute_6_4' ends teleporting on edge '757373598', time 1505.00.
+Warning: Teleporting vehicle 'rute_11_7'; waited too long (jam), lane=':3640024476_1_0', time=1508.00.
+Warning: Vehicle 'rute_11_7' ends teleporting on edge '756081030#0', time 1508.00.
+Warning: Teleporting vehicle 'rute_6_4'; waited too long (jam), lane='757373598_0', time=1806.00.
+Warning: Teleporting vehicle 'rute_14_1'; waited too long (jam), lane=':3640024470_3_0', time=1808.00.
+Warning: Vehicle 'rute_6_4' ends teleporting on edge '757467199', time 1808.00.
+Warning: Teleporting vehicle 'rute_7_9'; waited too long (jam), lane=':7072364217_0_0', time=1811.00.
+Warning: Vehicle 'rute_7_9' ends teleporting on edge '771544256#2', time 1811.00.
+Warning: Vehicle 'rute_14_1' ends teleporting on edge '562021794#0', time 1811.00.
+Warning: Teleporting vehicle 'rute_0_14'; waited too long (yield), lane='757467200#1_0', time=1815.00.
+Warning: Vehicle 'rute_0_14' ends teleporting on edge '757089161', time 1817.00.
+Simulation ended at time: 2094.00
+Reason: All vehicles have left the simulation.
+Performance: 
+ Duration: 2.94s
+ Real time factor: 712.73
+ UPS: 37181.756297
+Vehicles: 
+ Inserted: 240
+ Running: 0
+ Waiting: 0
+Teleports: 39 (Jam: 30, Yield: 9)
+
+-------------------------------------------------------------------------------
+['C:\\Program Files (x86)\\Eclipse\\Sumo\\bin\\duarouter', '-c', '2/iteration_002_bsd_001.duarcfg']
+Loading configuration ... done.
+Warning: No interval matches passed time 299.88 in edge '398041366#1'.
+ Using edge's length / max speed.
+Success.
+-------------------------------------------------------------------------------
+['C:\\Program Files (x86)\\Eclipse\\Sumo\\bin\\sumo', '-c', '2\\iteration_002.sumocfg']
+Loading configuration ... done.
+Loading net-file from '2\../BSD.net.xml' ... done (6521ms).
+Loading additional-files from '2\dua_dump_002.add.xml' ... done (40ms).
+Loading done.
+Simulation version 1.8.0 started with time: 0.00
+Warning: Teleporting vehicle 'rute_11_6'; waited too long (jam), lane=':3640024471_4_0', time=476.00.
+Warning: Vehicle 'rute_11_6' ends teleporting on edge '757467199', time 476.00.
+Warning: Teleporting vehicle 'rute_13_8'; waited too long (jam), lane='771544256#3_0', time=482.00.
+Warning: Teleporting vehicle 'rute_6_2'; waited too long (jam), lane='757373598_0', time=482.00.
+Warning: Vehicle 'rute_6_2' ends teleporting on edge '771544256#3', time 482.00.
+Warning: Vehicle 'rute_13_8' ends teleporting on edge '757467199', time 482.00.
+Warning: Teleporting vehicle 'rute_14_1'; waited too long (jam), lane=':7072364217_0_0', time=522.00.
+Warning: Vehicle 'rute_14_1' ends teleporting on edge '771544256#2', time 522.00.
+Warning: Teleporting vehicle 'rute_11_6'; waited too long (jam), lane='757467199_0', time=777.00.
+Warning: Vehicle 'rute_11_6' ends teleporting on edge '756081030#0', time 779.00.
+Warning: Teleporting vehicle 'rute_6_2'; waited too long (yield), lane='771544256#3_0', time=783.00.
+Warning: Vehicle 'rute_6_2' ends teleporting on edge '757467199', time 783.00.
+Warning: Teleporting vehicle 'rute_2_10'; waited too long (jam), lane=':3640024476_5_0', time=787.00.
+Warning: Vehicle 'rute_2_10' ends teleporting on edge '757373598', time 787.00.
+Warning: Teleporting vehicle 'rute_9_0'; waited too long (jam), lane=':699593339_0_0', time=791.00.
+Warning: Vehicle 'rute_9_0' ends teleporting on edge '757373598', time 793.00.
+Warning: Teleporting vehicle 'rute_5_11'; waited too long (jam), lane='757088117#1_0', time=931.00.
+Warning: Vehicle 'rute_5_11' ends teleporting on edge '757457244#0', time 934.00.
+Warning: Teleporting vehicle 'rute_11_7'; waited too long (yield), lane='757467199_0', time=1082.00.
+Warning: Vehicle 'rute_11_7' ends teleporting on edge '756081030#0', time 1084.00.
+Warning: Teleporting vehicle 'rute_2_10'; waited too long (jam), lane='757373598_0', time=1088.00.
+Warning: Vehicle 'rute_2_10' ends teleporting on edge '757467199', time 1090.00.
+Warning: Teleporting vehicle 'rute_9_0'; waited too long (jam), lane=':3640024470_1_0', time=1094.00.
+Warning: Vehicle 'rute_9_0' ends teleporting on edge '757457244#0', time 1094.00.
+Warning: Teleporting vehicle 'rute_11_14'; waited too long (yield), lane='757467200#1_0', time=1105.00.
+Warning: Vehicle 'rute_11_14' ends teleporting on edge '757089161', time 1107.00.
+Warning: Vehicle 'rute_11_14' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=1108.00.
+Simulation ended at time: 1470.00
+Reason: All vehicles have left the simulation.
+Performance: 
+ Duration: 1.88s
+ Real time factor: 783.165
+ UPS: 35087.906233
+Vehicles: 
+ Inserted: 240
+ Running: 0
+ Waiting: 0
+Teleports: 13 (Jam: 10, Yield: 3)
+
+-------------------------------------------------------------------------------
+['C:\\Program Files (x86)\\Eclipse\\Sumo\\bin\\duarouter', '-c', '3/iteration_003_bsd_002.duarcfg']
+Loading configuration ... done.
+Warning: No interval matches passed time 287.78 in edge '398041366#1'.
+ Using edge's length / max speed.
+Success.
+-------------------------------------------------------------------------------
+['C:\\Program Files (x86)\\Eclipse\\Sumo\\bin\\sumo', '-c', '3\\iteration_003.sumocfg']
+Loading configuration ... done.
+Loading net-file from '3\../BSD.net.xml' ... done (6285ms).
+Loading additional-files from '3\dua_dump_003.add.xml' ... done (44ms).
+Loading done.
+Simulation version 1.8.0 started with time: 0.00
+Warning: Teleporting vehicle 'rute_6_2'; waited too long (jam), lane='771544256#3_0', time=484.00.
+Warning: Vehicle 'rute_6_2' ends teleporting on edge '757467199', time 484.00.
+Simulation ended at time: 838.00
+Reason: All vehicles have left the simulation.
+Performance: 
+ Duration: 1.62s
+ Real time factor: 517.603
+ UPS: 32994.441013
+Vehicles: 
+ Inserted: 240
+ Running: 0
+ Waiting: 0
+Teleports: 1 (Jam: 1)
+
+-------------------------------------------------------------------------------
+['C:\\Program Files (x86)\\Eclipse\\Sumo\\bin\\duarouter', '-c', '4/iteration_004_bsd_003.duarcfg']
+Loading configuration ... done.
+Success.
+-------------------------------------------------------------------------------
+['C:\\Program Files (x86)\\Eclipse\\Sumo\\bin\\sumo', '-c', '4\\iteration_004.sumocfg']
+Loading configuration ... done.
+Loading net-file from '4\../BSD.net.xml' ... done (6343ms).
+Loading additional-files from '4\dua_dump_004.add.xml' ... done (42ms).
+Loading done.
+Simulation version 1.8.0 started with time: 0.00
+Simulation ended at time: 838.00
+Reason: All vehicles have left the simulation.
+Performance: 
+ Duration: 1.56s
+ Real time factor: 538.56
+ UPS: 34687.017995
+Vehicles: 
+ Inserted: 240
+ Running: 0
+ Waiting: 0
+

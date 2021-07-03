@@ -1,22 +1,15 @@
-Loading net-file from '0\../BSD.net.xml' ... done (18279ms).
-Loading additional-files from '0\dua_dump_000.add.xml' ... done (96ms).
+Loading net-file from '0\../BSD.net.xml' ... done (6119ms).
+Loading additional-files from '0\dua_dump_000.add.xml' ... done (35ms).
 Loading done.
 Simulation version 1.8.0 started with time: 0.00
-Warning: Teleporting vehicle 'veh0_2'; waited too long (jam), lane=':7072364217_0_0', time=444.00.
-Warning: Vehicle 'veh0_2' ends teleporting on edge '771544256#2', time 444.00.
-Warning: Teleporting vehicle 'veh5_0'; waited too long (jam), lane=':3640024471_4_0', time=476.00.
-Warning: Vehicle 'veh5_0' ends teleporting on edge '757467199', time 476.00.
-Warning: Teleporting vehicle 'veh1_5'; waited too long (jam), lane='757373598_0', time=482.00.
-Warning: Vehicle 'veh1_5' ends teleporting on edge '775190282#0', time 484.00.
-Simulation ended at time: 746.00
+Simulation ended at time: 503.00
 Reason: All vehicles have left the simulation.
 Performance: 
- Duration: 1.29s
- Real time factor: 578.295
- UPS: 10250.387597
+ Duration: 0.27s
+ Real time factor: 1898.11
+ UPS: 23309.433962
 Vehicles: 
  Inserted: 41
  Running: 0
  Waiting: 0
-Teleports: 3 (Jam: 3)
 

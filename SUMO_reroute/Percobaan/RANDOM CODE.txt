@@ -1,0 +1,1 @@
+python D:/PASCA/Thesis-kerja/sumo/tools/randomTrips.py -n BSD.net.xml -r bsd.rou.xml -e 500 -l
